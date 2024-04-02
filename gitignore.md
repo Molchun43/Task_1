@@ -1,5 +1,5 @@
-# ignore 
-*.log
-test.md
-git rep.svg
-*.txt
+# ignore   
+*.log  
+/test.md  
+/git rep.svg  
+*.txt  
