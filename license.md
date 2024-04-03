@@ -1,5 +1,3 @@
-[< К содержанию](/README.md)
-
 Copyright (c) 2024 Molchun43
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
